@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Carson Schubert
+title: Carson Schubert - Engineer
 subtitle: Engineer. Space Enthusiast. Student.
-meta-title: Carson Schubert - Engineer
 # Bigimgs 
 bigimg: 
     - img/big-imgs/glenn.jpg: NASA Glenn (2018)
