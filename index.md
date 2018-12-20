@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Carson Schubert
+title: Hi, I'm Carson
 subtitle: Engineer. Space Enthusiast. Student.
 meta-title: Carson Schubert - Engineer
 # Bigimgs 
