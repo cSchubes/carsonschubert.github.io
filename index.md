@@ -3,6 +3,7 @@ layout: page
 title: Hi, I'm Carson
 subtitle: Engineer. Space Enthusiast. Student.
 meta-title: Carson Schubert - Engineer
+use-site-title: false
 # Bigimgs 
 bigimg: 
     - img/big-imgs/glenn.jpg: NASA Glenn (2018)
