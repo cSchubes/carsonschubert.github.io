@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: What's up
+subtitle: How did I get here?
 ---
 
 My name is Inigo Montoya. I have the following qualities:
