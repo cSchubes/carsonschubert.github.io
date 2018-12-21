@@ -24,7 +24,7 @@ description: Engineer. Space Enthusiast. Student.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "https://cschubes.github.io/files/resume.pdf"
+  Resume: "https://cschubes.github.io/resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
