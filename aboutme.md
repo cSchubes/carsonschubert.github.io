@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Me
-subtitle: How did I get here?
+subtitle: How I Got Here
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Carson Schubert. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
