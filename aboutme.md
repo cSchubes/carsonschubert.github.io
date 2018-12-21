@@ -1,16 +1,28 @@
 ---
 layout: page
 title: About Me
-subtitle: How I Got Here
+subtitle: Engineer. Space Enthusiast. Student.
 ---
 
-My name is Carson Schubert. I have the following qualities:
+Welcome to my website - I'm Carson. Thanks for taking the time to visit.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm fascinated by the world around me and have been for as long as I can remember. I bring this passion to everything I do, from 
+the most mundane of conversations to the grandest of projects. The universe is an incredible place. Let's explore it together.
 
-What else do you need?
+### Professional Life
+At a glance:
 
-### my history
+- 3rd Year Undergraduate at the University of Texas at Austin
+- Studying Electrical and Computer Engineering
+- Specializing in autonomous systems (signal processing and artificial intelligence)
+- 1.5 years of research experience
+- Want to work in the space industry post-graduation
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Personal Life
+At a glance:
+
+- Born and raised in Plano, Texas
+- Soccer fan and player (Go Manchester City!)
+- Huge space geek and technology lover
+- Avid follower of world and business news
+
