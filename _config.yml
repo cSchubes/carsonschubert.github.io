@@ -23,6 +23,7 @@ description: Engineer. Space Enthusiast. Student.
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
   Resume: "https://cschubes.github.io/resume"
 
