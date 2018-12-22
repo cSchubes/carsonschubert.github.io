@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 subtitle: Engineer. Space Enthusiast. Student.
+nav-short: false
 ---
 
 Welcome to my website - I'm Carson. Thanks for taking the time to visit.  
