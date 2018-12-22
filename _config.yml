@@ -26,6 +26,7 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Past Work: 
+    - Cognitive Communications: "cognitive"
     - Seeker Vision: "seeker"
   Resume: "https://cschubes.github.io/resume"
 
