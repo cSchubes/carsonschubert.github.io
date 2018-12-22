@@ -25,6 +25,8 @@ description: Engineer. Space Enthusiast. Student.
 navbar-links:
   Home: "index"
   About Me: "aboutme"
+  Past Work: 
+    - Seeker Vision: "seeker"
   Resume: "https://cschubes.github.io/resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
