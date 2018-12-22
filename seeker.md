@@ -4,7 +4,7 @@ title: Seeker Vision
 meta-title: Carson Schubert - Seeker Vision
 subtitle: Vision System for NASA JSC's Seeker CubeSat Mission
 ---
-![alt text](img/cygnus.jpg "Cygnus Resupply Spacecraft")
+![alt text](https://cschubes.github.io/img/cygnus.jpg "Cygnus Resupply Spacecraft")
 
 The [Texas Spacecraft Laboratory](https://sites.utexas.edu/tsl/#) (TSL) is a student-driven research group dedicated to designing and building small satellites, 
 securing launches into space, and operating them once in orbit. I joined the lab as a sophomore undergrad and was privileged to see a project through from start to 
