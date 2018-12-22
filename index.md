@@ -11,12 +11,11 @@ bigimg:
     - img/big-imgs/field.JPG: FIRST Championships (2016)
 ---
 
-### Welcome. Have a look around.
+### Let's solve the tough problems.
 
-TEST TEST
+Thanks for taking the time to visit my website. Here you'll find my resume, details about some of my favorite
+projects I've worked on, and a bit of information about me.  
 
-TEST TEST  
-TEST TEST  
-
-
-TES TES
+If you know me, you know I don't shy away from a challenge. I spend most of my time thinking about the biggest
+problems and questions facing humanity today - and how I can best help solve them. From dark matter to climate change, 
+the universe presents us with a myriad of challenges on a daily basis. Let's work together to find the solutions.
