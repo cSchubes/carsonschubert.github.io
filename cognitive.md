@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Reinforcement Learning for Cognitive Communications
-subtitle: Research Internship at NASA's Glenn Research Center
+title: Cognitive Communications
+subtitle: Building the Cognitive Link (Research done at NASA's Glenn Research Center)
 ---
