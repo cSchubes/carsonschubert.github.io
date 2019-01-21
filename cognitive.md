@@ -3,7 +3,7 @@ layout: page
 title: Cognitive Communications
 subtitle: Building the Cognitive Link at NASA's Glenn Research Center
 ---
-![alt text](https://cschubes.github.io/img/Glenn_Last_day.jpg "Last Day at Glenn Research Center")
+![alt text](https://cschubes.github.io/img/Glenn_Last_day-flip.jpg "Last Day at Glenn Research Center")
 
 I was lucky enough to spend the fall semester of 2018 as a Machine Learning Intern at NASA's Glenn Research Center. It was a dream come true - the culmination of years
 of preparation spent hoping for a chance in the space industry. My research was part of the Cognitive Communications project at Glenn Research Center, a next generation communications
