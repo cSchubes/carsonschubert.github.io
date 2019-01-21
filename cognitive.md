@@ -19,7 +19,7 @@ a point to point link which aims to maximize data throughput by responding to va
 The reinforcement learning agent must switch between available radio links intelligently to achieve the maximum possible data rate. The simulation environment
 was developed using pre-existing MATLAB code that could simulate orbital dynamics and radio communcations. This code was used to generate training data,
 which was then fed into a custom [Gym](https://gym.openai.com/) environment. After developing the simulation environment, I began building and training agents within it. 
-The agents were modelled as neural networks using [PyTorch](https://pytorch.org/). Each agent was given slightly different hyperparameters and run through a test plan that characterized each 
+The agents were modelled as neural networks using [PyTorch](https://pytorch.org/). Each agent was given slightly different hypergitparameters and run through a test plan that characterized each 
 agent's performance to compare them against one another. 
 This involved extensive cross validation and statistical methods such as the F beta score. After completing this analysis, the 
 best agent was selected and trained on all available episode data in the environment to produce a final agent capable of acting as a cognitive link.  
