@@ -25,3 +25,5 @@ This involved extensive cross validation and statistical methods such as the F b
 best agent was selected and trained on all available episode data in the environment to produce a final agent capable of acting as a cognitive link.  
 
 A research paper and visualization are pending release from NASA.
+
+A podcast from NASA covers the motivations behind this type of research in more detail and features my mentor from Glenn, Janette Briones! Find it [here](https://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-04-automation).
