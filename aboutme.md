@@ -16,8 +16,8 @@ At a glance:
 - 3rd Year Undergraduate at the University of Texas at Austin
 - Studying Electrical and Computer Engineering
 - Specializing in autonomous systems (signal processing and artificial intelligence)
-- 1.5 years of research experience
-- Want to work in the space industry post-graduation
+- 2 years of research experience in multiple labs and institutions
+- Primary career objective: work in the space industry post-graduation
 
 ### Personal Life
 At a glance:
