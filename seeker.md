@@ -6,7 +6,7 @@ subtitle: Vision System for NASA JSC's Seeker CubeSat Mission
 ---
 
 # At a Glance
-- Texas Spacecraft Laboratory (TSL) collaboration with NASA Johnson Space Center (JSC)
+- [Texas Spacecraft Laboratory](https://sites.utexas.edu/tsl/#) collaboration with NASA Johnson Space Center (JSC)
 on the Seeker-1 CubeSat mission.  
 
 - Goal of Seeker-1 is to demonstrate capabilities relevant to on-orbit, free-flying inspection of
@@ -27,16 +27,7 @@ azimuth and elevation of a target spacecraft using only a monocular camera.
 ![alt text](https://cschubes.github.io/img/cygnus-dark.gif "Seeker Vision in action")
 <!-- ![alt text](https://cschubes.github.io/img/cygnus.jpg "Cygnus Resupply Spacecraft") -->
 
-<!-- # Overview
-Seeker is a NASA Johnson Space Center (JSC) program that will demonstrate the core capabilities 
-required for safe external robotic free-flyer inspection of crewed space vehicles. External 
-inspection of crewed space vehicles is a crucial next-step in manned space exploration that will 
-greatly improve astronaut safety and provide unparalleled ability to recover from in-flight 
-anomalies and avoid loss of crew. Apollo 13 and the Columbia disaster are two such examples 
-which would have benefited from the technology that Seeker aims to develop.
-
-# Personal Contributions
-
+# Details
 The [Texas Spacecraft Laboratory](https://sites.utexas.edu/tsl/#) (TSL) is a student-driven research group dedicated to designing and building small satellites, 
 securing launches into space, and operating them once in orbit. I joined the lab as a sophomore undergrad and was privileged to see a project through from start to 
 final delivery as a team lead during my sophomore year. I worked as the Flight Software and Hardware lead on the Seeker Vision project. Seeker Vision was a collaboration between 
@@ -57,5 +48,7 @@ My team and I successfully built flight software using two-tier process monitori
 with a single terminal command and ran automatically on boot if a camera was connected. After rigorous testing, the system was delivered to JSC in May of 2018 
 with technical documents which detailed its use and integration.   
 
-The delivered vision system was recently selected over multiple other vision systems for integration on the Seeker 1 CubeSat mission to launch in April 2019. Its
-ability to successfully handle worst case scenarios in testing was cited as a primary reason for its selection. -->
+The delivered vision system was selected over competing soltutions for integration on the Seeker 1 CubeSat mission that launched in April 2019. Its
+ability to successfully handle worst case scenarios in testing was cited as a primary reason for its selection.
+
+The Seeker-1 60 minute demonstration mission will take place in July of 2019.
