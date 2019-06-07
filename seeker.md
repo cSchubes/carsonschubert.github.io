@@ -7,20 +7,25 @@ subtitle: Vision System for NASA JSC's Seeker CubeSat Mission
 
 # At a Glance
 - Texas Spacecraft Laboratory (TSL) collaboration with NASA Johnson Space Center (JSC)
-on the Seeker-1 CubeSat mission.
+on the Seeker-1 CubeSat mission.  
+
 - Goal of Seeker-1 is to demonstrate capabilities relevant to on-orbit, free-flying inspection of
-crewed space vehicles to improve safety and identify anomalies early.
+crewed space vehicles to improve safety and identify anomalies early.  
+
 - TSL contracted by JSC to develop a novel visual navigation system for Seeker-1 that provides 
-azimuth and elevation of a target spacecraft using only a monocular camera.
+azimuth and elevation of a target spacecraft using only a monocular camera.  
+
 - **Personal Contributions**:
-    - Designed, implemented, and tested all flight software
+    - Designed, implemented, and tested all flight software  
     - Developed a suite of logging and data visualization scripts that characterize algorithm performance onboard flight hardware.
-    - Created technical documents detailing setup of mission hardware/testing procedures to simplify integration for flight.
-- Delivered in May 2018 and selected for integration among competing solutions.
+    - Created technical documents detailing setup of mission hardware/testing procedures to simplify integration for flight.  
+
+- Delivered in May 2018 and selected for integration among competing solutions.  
+
 - Seeker-1 CubeSat launched on Cygnus NG-11 on April 17, 2019.
 
 ![alt text](https://cschubes.github.io/img/cygnus-dark.gif "Seeker Vision in action")
-![alt text](https://cschubes.github.io/img/cygnus.jpg "Cygnus Resupply Spacecraft")
+<!-- ![alt text](https://cschubes.github.io/img/cygnus.jpg "Cygnus Resupply Spacecraft") -->
 
 <!-- # Overview
 Seeker is a NASA Johnson Space Center (JSC) program that will demonstrate the core capabilities 
