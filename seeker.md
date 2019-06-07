@@ -15,7 +15,8 @@ crewed space vehicles to improve safety and identify anomalies early.
 - TSL contracted by JSC to develop a novel visual navigation system for Seeker-1 that provides 
 azimuth and elevation of a target spacecraft using only a monocular camera.  
 
-- **Personal Contributions**:
+- **Personal Contributions**:  
+
     - Designed, implemented, and tested all flight software  
     - Developed a suite of logging and data visualization scripts that characterize algorithm performance onboard flight hardware.
     - Created technical documents detailing setup of mission hardware/testing procedures to simplify integration for flight.  
