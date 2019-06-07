@@ -4,7 +4,33 @@ title: Seeker Vision
 meta-title: Carson Schubert - Seeker Vision
 subtitle: Vision System for NASA JSC's Seeker CubeSat Mission
 ---
+![alt text](https://cschubes.github.io/img/cygnus-dark.gif "Seeker Vision in action")
 ![alt text](https://cschubes.github.io/img/cygnus.jpg "Cygnus Resupply Spacecraft")
+
+# At a Glance
+- University of Texas at Austin Texas Spacecraft Laboratory (TSL) collaboration with NASA Johnson Space Center (JSC)
+on the Seeker-1 CubeSat mission.
+- The goal of Seeker-1 is to demonstrate capabilities relevant to on-orbit, free-flying inspection of
+crewed space vehicles to improve safety and identify anomalies early. It will accomplish this via a 
+60 minute demonstration mission in July of 2019.
+- TSL was contracted by JSC to develop a novel visual navigation system for Seeker-1 that provides 
+azimuth and elevation (bearing) of a target spacecraft using only a monocular camera.
+- **Personal Contributions**:
+    - Designed, implemented, and tested flight software that handles boot sequence, facilitates vision algorithms, and communicatse with main flight computer.
+    - Developed a suite of logging and data visualization scripts that characterize algorithm performance onboard flight hardware.
+    - Created technical documents detailing setup of mission hardware/testing procedures to simplify integration for flight.
+- Completed system was delivered in May 2018 and selected for integration among competing solutions.
+- Seeker-1 CubeSat launched on Cygnus NG-11 on April 17, 2019.
+
+<!-- # Overview
+Seeker is a NASA Johnson Space Center (JSC) program that will demonstrate the core capabilities 
+required for safe external robotic free-flyer inspection of crewed space vehicles. External 
+inspection of crewed space vehicles is a crucial next-step in manned space exploration that will 
+greatly improve astronaut safety and provide unparalleled ability to recover from in-flight 
+anomalies and avoid loss of crew. Apollo 13 and the Columbia disaster are two such examples 
+which would have benefited from the technology that Seeker aims to develop.
+
+# Personal Contributions
 
 The [Texas Spacecraft Laboratory](https://sites.utexas.edu/tsl/#) (TSL) is a student-driven research group dedicated to designing and building small satellites, 
 securing launches into space, and operating them once in orbit. I joined the lab as a sophomore undergrad and was privileged to see a project through from start to 
@@ -27,4 +53,4 @@ with a single terminal command and ran automatically on boot if a camera was con
 with technical documents which detailed its use and integration.   
 
 The delivered vision system was recently selected over multiple other vision systems for integration on the Seeker 1 CubeSat mission to launch in April 2019. Its
-ability to successfully handle worst case scenarios in testing was cited as a primary reason for its selection.
+ability to successfully handle worst case scenarios in testing was cited as a primary reason for its selection. -->

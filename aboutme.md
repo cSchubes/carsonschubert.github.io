@@ -11,13 +11,14 @@ I'm fascinated by the world around me and have been for as long as I can remembe
 the most mundane of conversations to the grandest of projects. The universe is an incredible place. Let's explore it together.
 
 ### Professional Life
+**Primary Career Objective:** Work in the space industry post-graduation.  
+
 At a glance:
 
 - 3rd Year Undergraduate at the University of Texas at Austin
 - Studying Electrical and Computer Engineering
 - Specializing in autonomous systems (signal processing and artificial intelligence)
 - 2 years of research experience in multiple labs and institutions
-- Primary career objective: work in the space industry post-graduation
 
 ### Personal Life
 At a glance:
