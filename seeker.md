@@ -17,7 +17,8 @@ azimuth and elevation of a target spacecraft using only a monocular camera.
 
 - **Personal Contributions**:  
 
-    - Designed, implemented, and tested all flight software  
+    - Designed, implemented, and tested all flight software.
+    - Integrated machine learning and computer vision algorithms on flight hardware.
     - Developed a suite of logging and data visualization scripts that characterize algorithm performance onboard flight hardware.
     - Created technical documents detailing setup of mission hardware/testing procedures to simplify integration for flight.  
 
