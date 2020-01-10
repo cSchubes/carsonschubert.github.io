@@ -17,8 +17,8 @@ At a glance:
 
 - 3rd Year Undergraduate at the University of Texas at Austin
 - Studying Electrical and Computer Engineering
-- Specializing in autonomous systems (signal processing and artificial intelligence)
-- 2 years of research experience in multiple labs and institutions
+- Specializing in autonomous systems and wireless communications
+- 2.5 years of research experience in multiple labs and institutions
 
 ### Personal Life
 At a glance:
@@ -27,4 +27,3 @@ At a glance:
 - Soccer fan and player (Go Manchester City!)
 - Huge space geek and technology lover
 - Avid follower of world and business news
-
