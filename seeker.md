@@ -26,8 +26,11 @@ azimuth and elevation of a target spacecraft using only a monocular camera.
 
 - Seeker-1 CubeSat launched on Cygnus NG-11 on April 17, 2019.
 
-![alt text](https://cschubes.github.io/img/cygnus-dark.gif "Seeker Vision in action")
-<!-- ![alt text](https://cschubes.github.io/img/cygnus.jpg "Cygnus Resupply Spacecraft") -->
+- Seeker-1 primary mission was conducted on September 16, 2019.
+
+![alt text](https://cschubes.github.io/img/seeker/cygnus-dark.gif "Seeker Vision In Action, Ground Testing")
+![alt text](https://cschubes.github.io/img/seeker/seeker_deploy.gif "Seeker-1 Deploy, Sep 16, 2019")
+![alt text](https://cschubes.github.io/img/seeker/seeker_vision_orbit.gif "Seeker Vision In Action, Sep 16, 2019")
 
 # Details
 The [Texas Spacecraft Laboratory](https://sites.utexas.edu/tsl/#) (TSL) is a student-driven research group dedicated to designing and building small satellites, 
@@ -53,4 +56,4 @@ with technical documents which detailed its use and integration.
 The delivered vision system was selected over competing soltutions for integration on the Seeker 1 CubeSat mission that launched in April 2019. Its
 ability to successfully handle worst case scenarios in testing was cited as a primary reason for its selection.
 
-The Seeker-1 60 minute demonstration mission will take place in July of 2019.
+The Seeker-1 60 minute demonstration mission took place in September of 2019 and results are still being analyzed.
