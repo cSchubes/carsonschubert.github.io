@@ -11,19 +11,20 @@ I'm fascinated by the world around me and have been for as long as I can remembe
 the most mundane of conversations to the grandest of projects. The universe is an incredible place. Let's explore it together.
 
 ### Professional Life
-**Primary Career Objective:** Work in the space industry post-graduation.  
+**Primary Career Objective:** Work on the next generation of space communication architectures and flight systems.
 
 At a glance:
 
-- 3rd Year Undergraduate at the University of Texas at Austin
-- Studying Electrical and Computer Engineering
-- Specializing in autonomous systems and wireless communications
-- 2.5 years of research experience in multiple labs and institutions
+- Senior Undergraduate at the University of Texas at Austin
+- Double major: Electrical and Computer Engineering, Mathematics
+- Specializing in wireless communications, signal processing and embedded systems
+- 3 years of research experience spanning university laboratories, NASA centers, and private industry
 
 ### Personal Life
 At a glance:
 
 - Born and raised in Plano, Texas
+- Addicted to backpacking, hiking, and anything outdoors
 - Soccer fan and player (Go Manchester City!)
-- Huge space geek and technology lover
+- Space and tech geek
 - Avid follower of world and business news

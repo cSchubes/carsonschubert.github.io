@@ -13,13 +13,16 @@ to intelligently communicate in complex, dynamic environments.
 
 - My work focused on the cognitive link: an intelligent point-to-point link that changes
 link parameters based upon observed link characteristics to maintain the highest possible data rate.
-
+    
+- First author on a paper covering this reseach published at the [2019 IEEE Cognitive Communications for Aerospace Applications Workshop](http://ieee-ccaa.com/) in 
+July 2019. Read it [here](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20190026713.pdf).
+    
 - **Personal Contributions**:
     - Designed and implemented a new simulation environment for training and testing reinforcement learning agents for
-    cognitive communcations.
-    - Built and trained an agent within this environment capable of acting as a cognitive link.
-    - First author on a paper that will be published at the [IEEE CCAA Workshop](http://ieee-ccaa.com/) in 
-    July 2019 covering the results of this research.
+    cognitive communcations. This environment was later used by other researchers beyond my project.
+    - Built and trained an agent, modeled as a neural network, within this environment capable of acting as a cognitive link.
+    - Tuned agent hyperparameters via grid search and performed k-fold cross validation to ensure agent would generalize.
+    - Reported final results in a 16-page technical report that was later edited into the paper mentioned above.
 
 ![alt text](https://cschubes.github.io/img/Glenn-Last-Day.jpg "Last Day at Glenn Research Center")
 
@@ -43,7 +46,7 @@ agent's performance to compare them against one another.
 This involved extensive cross validation and statistical methods such as the F beta score. After completing this analysis, the 
 best agent was selected and trained on all available episode data in the environment to produce a final agent capable of acting as a cognitive link.  
 
-A research paper and visualization are pending release from NASA. In addition, I am first author on a paper that will be published at the 
-[IEEE CCAA Workshop](http://ieee-ccaa.com/) workshop in July 2019.
+The research resulted in a paper published at the [2019 IEEE Cognitive Communications for Aerospace Applications Workshop](http://ieee-ccaa.com/), on which I am first author.
+You can read the paper [here](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20190026713.pdf).
 
 A podcast from NASA covers the motivations behind this type of research in more detail and features my mentor from Glenn, Janette Briones! Find it [here](https://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-04-automation).

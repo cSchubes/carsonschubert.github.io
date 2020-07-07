@@ -9,7 +9,11 @@ bigimg:
     - img/big-imgs/glenn.jpg: NASA Glenn (2018)
     - img/big-imgs/JPL.jpg: JPL (2018)
     - img/big-imgs/field.JPG: FIRST Championships (2016)
-    - img/big-imgs/jpl_sunset_long.jpg: Death Valley, CA (2019)
+    - img/big-imgs/jpl_sunset_long.jpg: Death Valley NP, CA (2019)
+    - img/big-imgs/blue.jpg: Blue Origin, Kent, WA (2019)
+    - img/big-imgs/guadalupe_2020.jpg: Guadalupe Mountains NP, WA (2020)
+    - img/big-imgs/enchantments_2020.jpg: The Enchantments, WA (2020)
+    - img/big-imgs/rainier_2020.jpg: Mount Rainier NP, WA (2020)
 ---
 
 ### Let's solve the tough problems.
