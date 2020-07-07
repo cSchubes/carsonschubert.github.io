@@ -31,6 +31,9 @@ navbar-links:
   Past Work: 
     - Seeker Vision: "seeker"
     - Cognitive Communications at NASA Glenn: "cognitive"
+  Publications:
+    - Reinforcement Learning Applied to Cognitive Space Communications: "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20190026713.pdf"
+    - Applications of Machine Learning and Monocular Vision for Autonomous On-Orbit Proximity Operations: "https://arc.aiaa.org/doi/10.2514/6.2020-1376"
   Resume: "https://cschubes.github.io/resume"
   CV: "https://cschubes.github.io/cv"
 
