@@ -17,7 +17,8 @@ link parameters based upon observed link characteristics to maintain the highest
 - First author on a paper covering this reseach published at the [2019 IEEE Cognitive Communications for Aerospace Applications Workshop](http://ieee-ccaa.com/) in 
 July 2019. Read it [here](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20190026713.pdf).
     
-- **Personal Contributions**:
+- **Personal Contributions**:  
+
     - Designed and implemented a new simulation environment for training and testing reinforcement learning agents for
     cognitive communcations. This environment was later used by other researchers beyond my project.
     - Built and trained an agent, modeled as a neural network, within this environment capable of acting as a cognitive link.

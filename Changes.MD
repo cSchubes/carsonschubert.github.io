@@ -1,0 +1,1 @@
+- Added logic in _includes/navbarlink.html to handle opening links in separate tabs

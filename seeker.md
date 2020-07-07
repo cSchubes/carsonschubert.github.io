@@ -16,15 +16,17 @@ crewed space vehicles to improve safety and identify anomalies early.
 azimuth and elevation of a target spacecraft using only a monocular camera.  
 
 - First author on a paper covering this reseach published at the [2020 AIAA SciTech Forum and Exposition](https://www.aiaa.org/SciTech) in 
-January 2020. Read it [here](https://arc.aiaa.org/doi/10.2514/6.2020-1376).
+January 2020. Read it [here](https://arc.aiaa.org/doi/10.2514/6.2020-1376).  
 
 - **Personal Contributions**:  
+  
     - Designed, implemented, and tested all flight software.
     - Integrated machine learning and computer vision algorithms on flight hardware.
     - Developed a suite of logging and data visualization scripts that characterize algorithm performance onboard flight hardware.
     - Created technical documents detailing setup of mission hardware/testing procedures to simplify integration for flight.  
 
-- **Project Timeline**:
+- **Project Timeline**:  
+
     - Seeker Vision delivered to NASA JSC in May 2018 and selected for integration among competing solutions.
     - Seeker-1 CubeSat launched on Cygnus NG-11 on April 17, 2019.
     - Seeker-1 primary mission was conducted on September 16, 2019.
