@@ -28,9 +28,14 @@ azimuth and elevation of a target spacecraft using only a monocular camera.
 
 - Seeker-1 primary mission was conducted on September 16, 2019.
 
+# System In Action
+
 ![alt text](https://cschubes.github.io/img/seeker/cygnus-dark.gif "Seeker Vision In Action, Ground Testing")
+**Seeker Vision In Action, Ground Testing**
 ![alt text](https://cschubes.github.io/img/seeker/seeker_deploy.gif "Seeker-1 Deploy, Sep 16, 2019")
+**Seeker-1 Deploy, Sep 16, 2019**
 ![alt text](https://cschubes.github.io/img/seeker/seeker_vision_orbit.gif "Seeker Vision In Action, Sep 16, 2019")
+**Seeker Vision In Action, Sep 16, 2019**
 
 # Details
 The [Texas Spacecraft Laboratory](https://sites.utexas.edu/tsl/#) (TSL) is a student-driven research group dedicated to designing and building small satellites, 
